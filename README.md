@@ -1,3 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## I will update and explain how I built this app asap
+## A responsive To-do app written in REACT 
+#You can add event
+#You can edit event  
+#You can delete event 
